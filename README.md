@@ -22,7 +22,8 @@ Este projeto foi desenvolvido durante a Imersão Alura com Next.js e Componentes
 
   
 
-![projetoatual](https://user-images.githubusercontent.com/65976843/125528271-6d04c83d-ede2-480c-af54-33d25e038f2d.PNG)
+<img width="854" alt="alurar" src="https://user-images.githubusercontent.com/42151127/126164762-b891190d-b9df-4141-b94d-4c95a7c420ba.PNG">
+
 
   
   
@@ -231,7 +232,7 @@ Com isso o projeto já estará pronto para ser executado.
 
 ## 👥 Autor
 
-![autor](https://github.com/beatrizaraujoam.png)  
+![autor](  https://github.com/beatrizaraujoam.png )  
 **Beatriz Araujo**
 
 
